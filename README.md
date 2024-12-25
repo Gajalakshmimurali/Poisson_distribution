@@ -1,4 +1,12 @@
 # Fitting Poisson  distribution
+EX.NO:2
+
+DATE:
+
+NAME:M.GAJALAKSHMI
+
+REGISTER NO:24900240
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
